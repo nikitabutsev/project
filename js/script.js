@@ -32,3 +32,5 @@ console.log(arr[3]);
 
 const razdel = ('sumki');
 console.log(`http//mysite.ru/${razdel}/3`);
+
+alert('hi');
